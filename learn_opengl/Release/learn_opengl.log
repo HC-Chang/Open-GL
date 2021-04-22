@@ -1,9 +1,8 @@
 ﻿  glad.c
   main.cpp
-C:\Users\stude\Desktop\code\Open-GL\learn_opengl\main.cpp(149,25): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
   正在產生程式碼
-  42 of 44 functions (95.5%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
+  18 of 20 functions (90.0%) were compiled, the rest were copied from previous compilation.
+    5 functions were new in current compilation
     0 functions had inline decision re-evaluated but remain unchanged
   已完成程式碼產生
-  learn_opengl.vcxproj -> C:\Users\stude\Desktop\code\Open-GL\Release\learn_opengl.exe
+  learn_opengl.vcxproj -> C:\Users\stude\Desktop\code\github\Open-GL\Release\learn_opengl.exe
